@@ -607,7 +607,6 @@ span.glue-page-header__title-text {
 }
 
 .context-menu {
-	border: 2px solid var(--modspotify_main_fg);
 	box-shadow: 0 4px 12px 0 rgba(var(--modspotify_rgb_cover_overlay_and_shadow),.2);
 	border-radius: 7px !important;
 	overflow: hidden;
