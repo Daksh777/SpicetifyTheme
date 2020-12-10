@@ -594,7 +594,6 @@ span.glue-page-header__title-text {
 .progress-container .inner {
 	border-radius: 0 2px 2px 0 !important;
 	background-color: var(--modspotify_main_fg) !important;
-	box-shadow: 0 2px 2px 0 var(--modspotify_main_fg);
 }
 
 .saber-hilt {
