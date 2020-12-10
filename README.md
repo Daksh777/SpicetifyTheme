@@ -1,3 +1,10 @@
+# Screenshots
+#### Base
+![Base](https://i.imgur.com/wSk5ZtB.png)
+
+#### Dark
+![Dark](https://i.imgur.com/uz3tbM5.png)
+
 # Installation
 Run these commands:
 
