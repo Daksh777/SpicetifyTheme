@@ -5,9 +5,13 @@
 #### Dark
 ![Dark](https://i.imgur.com/uz3tbM5.png)
 
-# Installation
-Run these commands:
 
+# Installation
+ ### 1. Installing Spicetify CLI
+ Installation instructions for Windows, MacOS and Linux can be found [here](https://github.com/khanhas/spicetify-cli/wiki/Installation).
+ 
+ ### 2. Installing Theme
+ 
 #### Linux and MacOS:
 In **Bash**:
 ```bash
